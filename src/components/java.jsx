@@ -8,3 +8,4 @@ export const java = () => {
     </div>
   )
 }
+export default java

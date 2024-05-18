@@ -8,3 +8,4 @@ export const php = () => {
     </div>
   )
 }
+export default php

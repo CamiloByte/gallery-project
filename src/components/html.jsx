@@ -8,3 +8,4 @@ export const html = () => {
     </div>
   )
 }
+export default html

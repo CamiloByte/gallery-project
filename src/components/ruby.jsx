@@ -8,3 +8,5 @@ export const ruby = () => {
     </div>
   )
 }
+
+export default ruby

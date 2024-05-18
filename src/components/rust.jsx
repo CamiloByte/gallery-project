@@ -8,3 +8,4 @@ export const rust = () => {
     </div>
   )
 }
+export default rust

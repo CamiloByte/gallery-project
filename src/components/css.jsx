@@ -8,3 +8,5 @@ export const css = () => {
     </div>
   )
 }
+
+export default css

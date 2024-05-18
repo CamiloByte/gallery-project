@@ -8,3 +8,4 @@ export const go = () => {
     </div>
   )
 }
+export default go

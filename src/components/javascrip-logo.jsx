@@ -8,3 +8,4 @@ export const javascrip = () => {
     </div>
   )
 }
+export default javascrip

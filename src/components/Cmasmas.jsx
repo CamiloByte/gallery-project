@@ -11,3 +11,5 @@ export const Cmasmas = () => {
     </div>
   )
 }
+
+export default Cmasmas
